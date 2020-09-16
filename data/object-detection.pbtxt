@@ -4,10 +4,75 @@
 
 item {
     id: 1
-    name:'totoro'
+    name:'H'
 }
 
 item {
     id: 2
-    name: 'nekobus'
+    name: 'S'
+}
+
+item {
+    id: 3
+    name: 'D'
+}
+
+item {
+    id: 4
+    name: 'N'
+}
+
+item {
+    id: 5
+    name: 'X'
+}
+
+item {
+    id: 6
+    name: 'Q'
+}
+
+item {
+    id: 7
+    name: 'Y'
+}
+
+item {
+    id: 8
+    name: ':'
+}
+
+item {
+    id: 9
+    name: '.'
+}
+
+item {
+    id: 10
+    name: '/'
+}
+
+item {
+    id: 11
+    name: '0'
+}
+
+item {
+    id: 12
+    name: '1'
+}
+
+item {
+    id: 13
+    name: '2'
+}
+
+item {
+    id: 14
+    name: '8'
+}
+
+item {
+    id: 15
+    name: '9'
 }
